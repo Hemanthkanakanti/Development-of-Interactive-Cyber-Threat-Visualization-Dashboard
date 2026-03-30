@@ -17,7 +17,7 @@ This repository is organized into the following sections for institute evaluatio
 * **Architecture:** [Architecture Diagram](./architecture.gif)
 * **Workflow Model:** [Workflow Model](./WORKFLOWMODEL.drawio.svg)
 * **Agile Docs:** [Link to your Agile/Project Management file]
-* **PPT:** [Presentation](./Interactive Cyber Threat Visualization Dashboard.pptx)
+* **PPT:** [Presentation](https://github.com/Hemanthkanakanti/Development-of-Interactive-Cyber-Threat-Visualization-Dashboard/blob/main/Interactive%20Cyber%20Threat%20Visualization%20Dashboard.pptx)
 
 ### 2. Research & Tasks
 * **Model Research:** [Detailed Research PDF](./Model%20Research.pdf)

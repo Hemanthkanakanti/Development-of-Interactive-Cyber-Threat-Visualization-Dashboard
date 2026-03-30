@@ -20,7 +20,7 @@ This repository is organized into the following sections for institute evaluatio
 
 ### 2. Research & Tasks
 * **Model Research:** [Detailed Research PDF](./Model%20Research.pdf)
-* **Python Implementation:** [Jupyter Notebook](./Python_Task.ipynb)
+* **Python Implementation:** [Jupyter Notebook](./PYTHON.ipynb)
 * **Data Analysis (SQL):** [SQL Task Script](./SQL_Task.ipynb)
 
 ### 3. Technical Core

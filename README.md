@@ -10,7 +10,9 @@ This repository contains the complete documentation, research, and project manag
 ## Project Demo
 * **Demonstration Video:** 
 
-<video src="Live Project Demo1.mp4" controls width="600"></video>
+## 🎥 Live Project Demo
+
+<video src="live-project-demo.mp4" controls width="700"></video>
 
 ---
 

@@ -11,8 +11,11 @@ This repository contains the complete documentation, research, and project manag
 
 ## 🎥 Live Project Demo
 
-<video src="https://github.com/user/repo/assets/....mp4" controls></video>
+## 🎥 Live Project Demo
 
+<video width="800" controls>
+  <source src="PASTE-LINK-HERE" type="video/mp4">
+</video>
 ---
 
 ## 📂 Project Structure & Deliverables

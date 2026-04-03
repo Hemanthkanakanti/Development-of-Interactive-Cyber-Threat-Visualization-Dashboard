@@ -8,11 +8,10 @@ This repository contains the complete documentation, research, and project manag
 * **Project Video Demo:** [Project Demo](https://github.com/Hemanthkanakanti/Development-of-Interactive-Cyber-Threat-Visualization-Dashboard/blob/main/Live%20Project%20Demo1.mp4 )
 
 ## Project Demo
-* **Demonstration Video:** 
 
 ## 🎥 Live Project Demo
 
-<video src="live-project-demo.mp4" controls width="700"></video>
+<video src="https://github.com/user/repo/assets/....mp4" controls></video>
 
 ---
 

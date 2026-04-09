@@ -37,7 +37,7 @@ Interactive Cyber Threat Visualization Dashboard.pptx](https://github.com/user-a
 * **Data Analysis (SQL):** [SQL Task Script](SQL.ipynb)
 
 ### 3. Technical Core
-The actual development, frontend, and deployment logic are maintained in the **[Cybernexus Development Repo](your-file-name-as-same-in-repo)** to ensure a clean separation between documentation and production code.
+The actual development, frontend, and deployment logic are maintained in the **[Cybernexus Development Repo](https://github.com/Hemanthkanakanti/Cybernexus)** to ensure a clean separation between documentation and production code.
 
 ---
 

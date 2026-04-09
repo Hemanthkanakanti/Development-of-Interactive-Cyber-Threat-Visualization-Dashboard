@@ -37,7 +37,7 @@ This repository is organized into the following sections for Internship evaluati
 
 ### 2. Research & Tasks
 * **Model Research:** [Detailed Research PDF](Model Researchdocx.pdf)
-* **Python Implementation:** [Jupyter Notebook](your-file-name-as-same-in-repo)
+* **Python Implementation:** [Jupyter Notebook](PYTHON.ipynb)
 * **Data Analysis (SQL):** [SQL Task Script](your-file-name-as-same-in-repo)
 
 ### 3. Technical Core

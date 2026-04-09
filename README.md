@@ -28,12 +28,10 @@ This repository is organized into the following sections for Internship evaluati
   <img src="your-file-name-as-same-in-repo" alt="Presentation Slides" width="100%">
 </div>
 
-* **Download Project Presentation PPT slides:** [Project Presentation File (.pptx)](Interactive Cyber Threat Visualization Dashboard.pptx)
+* **Download Project Presentation PPT slides:** [Project Presentation File (.pptx)](./Interactive%20Cyber%20Threat%20Visualization%20Dashboard.pptx)
   
 * **System Architecture Diagram:**
-<div align="center">
-  <img src="your-file-name-as-same-in-repo" alt="Architecture Diagram" width="100%">
-</div>
+![Image](https://github.com/user-attachments/assets/e0589ff5-0395-4e24-bf59-b945bdc75c61)
 
 ### 2. Research & Tasks
 * **Model Research:** [Detailed Research PDF](./Model%20Researchdocx.pdf)

@@ -21,7 +21,7 @@ This repository contains the complete documentation, research, and project manag
 This repository is organized into the following sections for Internship evaluation:
 
 ### 1. Planning & Agile Documentation
-* **Agile Docs:** [Agile Documentation](your-file-name-as-same-in-repo)
+* **Agile Docs:** [Agile Documentation](Agile_Team_B2.xlsx)
 
 * **Project Presentation Slides:**
 <div align="center">

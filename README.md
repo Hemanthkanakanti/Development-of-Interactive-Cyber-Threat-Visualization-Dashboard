@@ -34,7 +34,7 @@ Interactive Cyber Threat Visualization Dashboard.pptx](https://github.com/user-a
 ### 2. Research & Tasks
 * **Model Research:** [Detailed Research PDF](./Model%20Researchdocx.pdf)
 * **Python Implementation:** [Jupyter Notebook](PYTHON.ipynb)
-* **Data Analysis (SQL):** [SQL Task Script](your-file-name-as-same-in-repo)
+* **Data Analysis (SQL):** [SQL Task Script](SQL.ipynb)
 
 ### 3. Technical Core
 The actual development, frontend, and deployment logic are maintained in the **[Cybernexus Development Repo](your-file-name-as-same-in-repo)** to ensure a clean separation between documentation and production code.

@@ -24,9 +24,7 @@ This repository is organized into the following sections for Internship evaluati
 * **Agile Docs:** [Agile Documentation](Agile_Team_B2.xlsx)
 
 * **Project Presentation Slides:**
-<div align="center">
-  <img src="your-file-name-as-same-in-repo" alt="Presentation Slides" width="100%">
-</div>
+Interactive Cyber Threat Visualization Dashboard.pptx](https://github.com/user-attachments/files/26605473/Interactive.Cyber.Threat.Visualization.Dashboard.pptx
 
 * **Download Project Presentation PPT slides:** [Project Presentation File (.pptx)](./Interactive%20Cyber%20Threat%20Visualization%20Dashboard.pptx)
   

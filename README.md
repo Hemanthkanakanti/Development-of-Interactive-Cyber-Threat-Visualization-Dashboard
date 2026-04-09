@@ -28,7 +28,7 @@ This repository is organized into the following sections for Internship evaluati
   <img src="your-file-name-as-same-in-repo" alt="Presentation Slides" width="100%">
 </div>
 
-* **Download Project Presentation PPT slides:** [Project Presentation File (.pptx)](your-file-name-as-same-in-repo)
+* **Download Project Presentation PPT slides:** [Project Presentation File (.pptx)](Interactive Cyber Threat Visualization Dashboard.pptx)
   
 * **System Architecture Diagram:**
 <div align="center">
